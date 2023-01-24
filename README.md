@@ -29,7 +29,6 @@ Technologies:
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman" />
 </div>
 
-
 Other languages I've learned in the past:
 - Java
 - C
