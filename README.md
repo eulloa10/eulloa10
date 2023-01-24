@@ -1,7 +1,7 @@
 I'm Ed, an accountant turned full stack software engineer. I enjoy building sleek and performant full stack apps in both JavaScript and Python, but I am open to learning new languages and technologies. When I'm not coding, I'm usually thinking of ways to automate my life, trying out new food and cocktail recipes, watching sports, or playing tennis.
 
 - 👨‍💻 I’m currently working on [Haus](https://house-me.onrender.com/)
-- 🌱 I’m currently expanding my knowledge with Modern React with Redux by Stephen Grider.
+- 🌱 Expanding my knowledge with Modern React with Redux by Stephen Grider.
 - 💬 Let's chat about Javascript, Python, Flask, React, Redux, Node.js / Express.js, PostgreSQL
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/edgarulloa/), [Email](mailTo:ulloa.edgar0203@gmail.com).
 
