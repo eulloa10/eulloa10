@@ -1,4 +1,6 @@
-I'm Ed, a former accountant turned full stack software engineer.  I specialize in building sleek and performant full stack apps using JavaScript and Python, and am always keen to learn new languages and technologies. Outside of coding, I'm constantly brainstorming ways to automate redundant tasks in my life, experimenting with new food and cocktail recipes, watching sports, or playing tennis.
+I'm Ed, a full stack software engineer with a unique background in economics and accounting. I focus on building dynamic and efficient web apps that provide real value to end-users. While my expertise lies in developing apps using JavaScript and Python, I'm always eager to learn new languages and technologies to expand my skill set. 
+
+If you're looking for a full stack software engineer who can bring a diverse range of skills and experiences to your projects, I'm here to help.
 
 - 👨‍💻 Currently working on [Haus](https://house-me.onrender.com/)
 - 🌱 Expanding my knowledge with Modern React with Redux by Stephen Grider.
