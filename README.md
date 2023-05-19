@@ -2,9 +2,9 @@ I'm Ed, a full stack software engineer with a unique background in economics and
 
 If you're looking for a full stack software engineer who can bring a diverse range of skills and experiences to your projects, I'm here to help.
 
-- 👨‍💻 Currently working on [Haus](https://house-me.onrender.com/)
-- 🌱 Expanding my knowledge with Modern React with Redux by Stephen Grider.
-- 💬 Let's chat about Javascript, Python, Flask, React, Redux, Node.js / Express.js, PostgreSQL
+- 👨‍💻 Currently working on [Economic Indicators](https://github.com/eulloa10/economic-indicators)
+- 🌱 Expanding my knowledge with [Next.js & React - The Complete Guide](https://www.udemy.com/course/nextjs-react-the-complete-guide/)
+- 💬 Let's chat about Javascript, Python, Flask, Django, React, Redux, Node.js / Express.js, PostgreSQL
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/edgarulloa/), [Email](mailTo:ulloa.edgar0203@gmail.com).
 
 ⚙️ Some of my main projects:
