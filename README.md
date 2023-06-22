@@ -5,7 +5,7 @@ If you're looking for a full stack software engineer who can bring a diverse ran
 - 👨‍💻 Currently working on [Economic Indicators](https://github.com/eulloa10/economic-indicators)
 - 🌱 Expanding my knowledge with [Next.js & React - The Complete Guide](https://www.udemy.com/course/nextjs-react-the-complete-guide/)
 - 💬 Let's chat about Javascript, Python, Flask, Django, React, Redux, Node.js / Express.js, PostgreSQL
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/edgarulloa/), [Email](mailTo:ulloa.edgar0203@gmail.com).
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/edgarulloa/), [Email](mailTo:ulloa.edgar0203+gh@gmail.com).
 
 ⚙️ Some of my main projects:
 - [Haus](https://house-me.onrender.com/) - a real estate marketplace built with React, Flask, PostgreSQL, AWS
