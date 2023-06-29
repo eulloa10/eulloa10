@@ -1,6 +1,4 @@
-I'm Ed, a full stack software engineer with a unique background in economics and accounting. I focus on building dynamic and efficient web apps that provide real value to end-users. While my expertise lies in developing apps using JavaScript and Python, I'm always eager to learn new languages and technologies to expand my skill set. 
-
-If you're looking for a full stack software engineer who can bring a diverse range of skills and experiences to your projects, I'm here to help.
+I'm Ed, a software engineer with a background in economics and accounting. 
 
 - 👨‍💻 Currently working on [Economic Indicators](https://github.com/eulloa10/economic-indicators)
 - 🌱 Expanding my knowledge with [Next.js & React - The Complete Guide](https://www.udemy.com/course/nextjs-react-the-complete-guide/)
