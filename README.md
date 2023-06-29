@@ -1,4 +1,4 @@
-I'm Ed, a software engineer with a background in economics and accounting. 
+I'm Ed, a software engineer with a background in economics and accounting. I'm currently working on opensource projects for [Hack for LA](https://www.hackforla.org/) and also searching for paid remote opportunities. Reach out if you'd like to collaborate or are looking for a dev for your next project!
 
 - 👨‍💻 Currently working on [Economic Indicators](https://github.com/eulloa10/economic-indicators)
 - 🌱 Expanding my knowledge with [Next.js & React - The Complete Guide](https://www.udemy.com/course/nextjs-react-the-complete-guide/)
