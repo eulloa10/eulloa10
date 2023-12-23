@@ -4,7 +4,7 @@ I'm Ed, a software engineer with a background in economics and finance. I'm curr
 
 - Currently working on [State of the Market](https://github.com/eulloa10/state-of-the-market) a web app for tracking economic indicators to help guide investment decisions
 - Digging deeper into Python with [Learning Python](https://www.oreilly.com/library/view/learning-python-5th/9781449355722/)
-- Current contributing to [Superset](https://github.com/apache/superset) and [Lucky Parking](https://github.com/hackforla/lucky-parking)
+- Currently contributing to [Superset](https://github.com/apache/superset) and [Lucky Parking](https://github.com/hackforla/lucky-parking)
 - How to reach me: [LinkedIn](https://www.linkedin.com/in/edgarulloa/), [Email](mailTo:edgar.ulloa.careers+gh@gmail.com).
 
 ⚙️ Some of my projects:
