@@ -1,9 +1,9 @@
-I'm Ed, a software engineer with a background in economics and accounting. I'm currently working on open-source civic tech projects for [Hack for LA](https://www.hackforla.org/) and also searching for remote opportunities. Reach out if you'd like to collaborate or are in need of a dev!
+I'm Ed, a software engineer with a background in economics and finance. I'm currently contributing to open-source projects and searching for remote or hybrid opportunities. 
 
-- 👨‍💻 Currently working on [State of the Market](https://github.com/eulloa10/state-of-the-market) a web app for tracking economic indicators to help guide investment decisions
-- 🌱 Expanding my knowledge with [JavaScript: The Definitive Guide](https://www.oreilly.com/library/view/javascript-the-definitive/9781491952016/)
-- 💬 Let's chat about Javascript, Python, Flask, Django, React, Redux, Node.js / Express.js, PostgreSQL
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/edgarulloa/), [Email](mailTo:edgar.ulloa.careers+gh@gmail.com).
+- Currently working on [State of the Market](https://github.com/eulloa10/state-of-the-market) a web app for tracking economic indicators to help guide investment decisions
+- Expanding my knowledge with [JavaScript: The Definitive Guide](https://www.oreilly.com/library/view/javascript-the-definitive/9781491952016/)
+- Let's chat about Javascript, Python, Flask, Django, React, Redux, Node.js / Express.js, PostgreSQL
+- How to reach me: [LinkedIn](https://www.linkedin.com/in/edgarulloa/), [Email](mailTo:edgar.ulloa.careers+gh@gmail.com).
 
 ⚙️ Some of my projects:
 - [Haus](https://house-me.onrender.com/) - a real estate marketplace built with React, Flask, PostgreSQL, AWS
