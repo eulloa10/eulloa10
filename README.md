@@ -1,4 +1,4 @@
-I'm Ed, a software engineer with a background in economics and finance. I'm currently contributing to open-source projects and searching for remote or hybrid opportunities. 
+I'm Ed, a software engineer with a background in economics and finance. I'm currently contributing to open-source projects and searching for remote opportunities. 
 
 [My Portfolio](https://edgarulloa.vercel.app/)
 
