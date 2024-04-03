@@ -2,8 +2,8 @@ I'm Ed, a software engineer with a background in economics and finance. I'm curr
 
 [My Portfolio](https://edgarulloa.vercel.app/)
 
-- Currently working on [State of the Market](https://github.com/eulloa10/state-of-the-market) a web app for tracking economic indicators to help guide investment decisions
-- Digging deeper into Python with [Learning Python](https://www.oreilly.com/library/view/learning-python-5th/9781449355722/) and software design with [Head First Design Patterns](https://www.oreilly.com/library/view/head-first-design/9781492077992/)
+- Currently working on [State of the Market](https://github.com/eulloa10/state-of-the-market) an app for tracking economic indicators to help guide investment decisions
+- Digging deeper into Python with [Learning Python](https://www.oreilly.com/library/view/learning-python-5th/9781449355722/) and data engineering with [Fundamentals of Data Engineering](https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/)
 - How to reach me: [LinkedIn](https://www.linkedin.com/in/edgarulloa/), [Email](mailTo:edgar.ulloa.careers+gh@gmail.com).
 
 ⚙️ Some of my projects:
