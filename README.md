@@ -1,7 +1,7 @@
-I'm Ed, a software engineer with a background in accounting and finance. I'm currently contributing to open-source projects and searching for software engineering opportunities. 
+I'm Ed. I am a software engineer and a former revenue accountant.
 
 ## About Me
-I am a software engineer and a former revenue accountant. My experience spans several industries including real estate, media and entertainment, and e-commerce. This unique combination of skills enables me to approach challenges with a thorough understanding of both technical and financial perspectives.
+My experience spans several industries including real estate, media and entertainment, and e-commerce. This unique combination of skills enables me to approach challenges with a thorough understanding of both technical and financial perspectives.
 
 ## Technical Skills 
 - **Languages:** JavaScript, Python, TypeScript, HTML, CSS
