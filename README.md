@@ -6,7 +6,7 @@ My experience spans several industries including real estate, media and entertai
 ## Technical Skills 
 - **Languages:** JavaScript, Python, TypeScript, HTML, CSS
 - **Frameworks & Libraries:** React, Next.js, Node.js, Flask, Django
-- **Tools & Platforms:** AWS, GCP, Git, Docker, AWS, Vercel
+- **Tools & Platforms:** AWS, GCP, Docker
 - **Database Systems:** PostgreSQL, SQLite
 - **LLMs:** Gemini, GPT
 
