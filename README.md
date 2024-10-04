@@ -10,7 +10,7 @@ My experience spans several industries including real estate, media and entertai
 - **Database Systems:** PostgreSQL, SQLite
 - **LLMs:** Gemini, GPT
 
-## Key Projects 
+## Key Projects and Contributions
 - **[Apache Superset (Open Source)](https://github.com/apache/superset):**  Apache Superset is a Data Visualization and Data Exploration Platform 
 - **[Lucky Parking (Open Source)](https://github.com/eulloa10/lucky-parking):** Visualization of parking data to assist in understanding of the effects of parking policies on a neighborhood by neighborhood basis in the City of Los Angeles 
 - **[Haus](https://github.com/eulloa10/haus):** A real estate marketplace web app where users can browse home listings, schedule tours, and make offers
