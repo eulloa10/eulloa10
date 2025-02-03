@@ -1,4 +1,4 @@
-I'm a software engineer focused on backend and data engineering. 
+Software engineer focused on backend and data engineering. 
 
 ## About Me
 I bring a unique blend of technical and business expertise to software engineering, leveraging 8+ years of experience in accounting/finance within the real estate, media and entertainment, and e-commerce industries.
