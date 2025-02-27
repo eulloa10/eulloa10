@@ -1,15 +1,15 @@
-Software engineer focused on backend and data engineering. 
+Software engineer focused data engineering and analysis.
 
 ## About Me
 I bring a unique blend of technical and business expertise to software engineering, leveraging 8+ years of experience in accounting/finance within the real estate, media and entertainment, and e-commerce industries.
 
 ## Technical Skills 
 - **Languages:** Python, JavaScript, SQL
-- **Backend:** Django, Flask, Node.js, RESTful APIs
+- **Backend:** Django, Flask, RESTful APIs
 - **Databases:** PostgreSQL, SQLite, SQLAlchemy, Sequelize
 - **Data Pipelines/ETL:** Pandas, Airflow, AWS Glue
 - **Cloud/DevOps:** AWS (S3, RDS, EC2, Glue, SNS), Docker, Terraform
-- **Testing/QA:** Postman, pytest, Jest
+- **Testing/QA:** Postman, pytest
 - **Frontend:** React, Next.js
 - **LLMs:** GPT, Gemini, Claude
 
