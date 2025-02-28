@@ -1,26 +1,38 @@
-Software engineer focused data engineering and analysis.
+# Software Engineer | Data Engineering & Analysis
 
 ## About Me
-I bring a unique blend of technical and business expertise to software engineering, leveraging 8+ years of experience in accounting/finance within the real estate, media and entertainment, and e-commerce industries.
+My background in accounting and finance across real estate, media & entertainment, and e-commerce provides a strong foundation for understanding business needs and translating them into technical solutions. I'm passionate about building data pipelines and creating actionable insights.
 
 ## Technical Skills 
-- **Languages:** Python, JavaScript, SQL
-- **Backend:** Django, Flask, RESTful APIs
-- **Databases:** PostgreSQL, SQLite, SQLAlchemy, Sequelize
-- **Data Pipelines/ETL:** Pandas, Airflow, AWS Glue
-- **Cloud/DevOps:** AWS (S3, RDS, EC2, Glue, SNS), Docker, Terraform
-- **Testing/QA:** Postman, pytest
-- **Frontend:** React, Next.js
+
+**Data Engineering & Analysis:**
+
+* **Languages:** Python (Pandas, Openpyxl), JavaScript, SQL
+* **Data Pipelines/ETL:** Airflow, AWS Glue
+* **Databases:** PostgreSQL, SQLAlchemy
+* **Cloud/DevOps:** AWS (S3, RDS, EC2, Glue), Docker, Terraform
+
+**Web Development:**
+
+* **Languages**: Python, JavaScript
+* **Backend:** Django, Flask, RESTful APIs
+* **Frontend:** React, Next.js
+* **Testing/QA:** Postman, pytest
+
 - **LLMs:** GPT, Gemini, Claude
 
 ## Key Projects and Contributions
-- **[Fred Financial Data Pipeline](https://github.com/eulloa10/financial-data-pipeline):** A financial data pipeline built with AWS, Airflow, and Preset that automates economic data analysis
-- **[Apache Superset (Open Source)](https://github.com/apache/superset):**  Apache Superset is a Data Visualization and Data Exploration Platform 
-- **[Lucky Parking (Open Source)](https://github.com/eulloa10/lucky-parking):** Visualization of parking data to assist in understanding of the effects of parking policies on a neighborhood by neighborhood basis in the City of Los Angeles 
-- **[Haus](https://github.com/eulloa10/haus):** A real estate marketplace web app where users can browse home listings, schedule tours, and make offers
-- **[Harmonious Voices](https://github.com/eulloa10/harmonious-voices):** A messaging web app where users can form and join interest-based online communities 
 
-  
+**Data-Focused Projects:**
+
+* **[Fred Financial Data Pipeline](https://github.com/eulloa10/financial-data-pipeline):** A financial data pipeline built with AWS, Airflow, and Preset that automates economic data analysis
+* **[Apache Superset (Open Source)](https://github.com/apache/superset):**  Apache Superset is a Data Visualization and Data Exploration Platform 
+* **[Lucky Parking (Open Source)](https://github.com/eulloa10/lucky-parking):** Visualization of parking data to assist in understanding of the effects of parking policies on a neighborhood by neighborhood basis in the City of Los Angeles
+
+**Web Apps:**
+* **[Haus](https://github.com/eulloa10/haus):** A real estate marketplace web app where users can browse home listings, schedule tours, and make offers
+* **[Harmonious Voices](https://github.com/eulloa10/harmonious-voices):** A messaging web app where users can form and join interest-based online communities 
+
 You can view these and more [here](https://edgarulloa.vercel.app/).
 
 ## Let's Connect
