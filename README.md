@@ -7,7 +7,7 @@ My background in accounting and finance across real estate, media & entertainmen
 
 **Data Engineering & Analysis:**
 
-* **Languages:** Python (Pandas, Openpyxl), JavaScript, SQL
+* **Languages:** Python (Pandas, Openpyxl), SQL
 * **Data Pipelines/ETL:** Airflow, AWS Glue
 * **Databases:** PostgreSQL, SQLAlchemy
 * **Cloud/DevOps:** AWS (S3, RDS, EC2, Glue), Docker, Terraform
