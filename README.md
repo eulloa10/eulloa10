@@ -1,7 +1,7 @@
-# Software Engineer | Data Engineering & Analysis
+# Software Engineer(Backend/Data)
 
 ## About Me
-My background in accounting and finance across real estate, media & entertainment, and e-commerce provides a strong foundation for understanding business needs and translating them into technical solutions. I'm passionate about building data pipelines and creating actionable insights.
+My background in accounting and finance across real estate, media & entertainment, and e-commerce provides a strong foundation for understanding business needs and translating them into technical solutions.
 
 ## Technical Skills 
 
@@ -16,7 +16,7 @@ My background in accounting and finance across real estate, media & entertainmen
 
 * **Languages**: Python, JavaScript
 * **Backend:** Django, Flask, RESTful APIs
-* **Frontend:** React, Next.js
+* **Frontend:** React
 * **Testing/QA:** Postman, pytest
 
 - **LLMs:** GPT, Gemini, Claude
