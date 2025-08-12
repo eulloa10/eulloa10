@@ -19,8 +19,6 @@ My background in accounting and finance across real estate, media & entertainmen
 * **Frontend:** React
 * **Testing/QA:** Postman, pytest
 
-- **LLMs:** GPT, Gemini, Claude
-
 ## Key Projects and Contributions
 
 **Data-Focused Projects:**
