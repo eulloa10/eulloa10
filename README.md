@@ -1,20 +1,18 @@
-# Software Engineer | Data Engineering | Cloud & Analytics
+# Product Engineer Apprentice @ Allstate | Software Engineer | Data Engineering & Analytics
 
-## About Me
-Software engineer with a focus on data engineering, backend systems, and cloud analytics. I began my career in accounting, where I automated reconciliation and reporting workflows with Python and SQL, and built ETL solutions that streamlined financial operations.
+Data-focused Software Engineer with a background in Accounting and Revenue Operations. Currently building scalable data solutions and ML prototypes at Allstate using Microsoft Fabric, PySpark, and Power BI.
 
-Currently, I’m a Product Engineer Apprentice, working on sales data pipelines, Microsoft Fabric datasets, and Power BI dashboards that support enterprise analytics and machine learning initiatives.
+---
 
-## Technical Skills 
+### Tech Stack
 
-**Data Engineering & Analysis:**
-
-* **Programming & Data:** Python (Pandas, PySpark, Openpyxl), SQL
-* **Data Engineering:** ETL (Airflow, AWS Glue, Microsoft Fabric), Data Modeling
-* **Databases:** PostgreSQL, Oracle, SQLAlchemy
-* **Cloud/DevOps:** AWS (S3, RDS, EC2, Glue), Terraform, Docker
-* **Backend Development:** Flask, Django, REST APIs
-* **Analytics & Visualizations:** Power BI, Preset (Superset)
+* **Programming:** Python, SQL, PySpark
+* **Data and Analytics:** Microsoft Fabric (Notebooks, OneLake), Power BI, Data Modeling, Machine Learning
+* **Cloud & DevOps:** AWS Certified (S3, Glue, RDS, EC2), Docker, Terraform
+* **Methodologies:** Extreme Programming (XP), Agile, Test-Driven Development (TDD)
+* **Backend & Web:** Flask, Django, RESTful APIs, Selenium
+* **Databases:** PostgreSQL, Oracle
+---
 
 ## Key Projects and Contributions
 
