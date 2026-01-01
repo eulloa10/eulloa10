@@ -1,6 +1,6 @@
 # Product Engineer Apprentice @ Allstate | Software Engineer | Data Engineering & Analytics
 
-Data-focused Software Engineer with a background in Accounting and Revenue Operations. Currently building scalable data solutions and ML prototypes at Allstate using Microsoft Fabric, PySpark, and Power BI.
+Data-focused Software Engineer with a background in Revenue Accounting. Currently building scalable data solutions and ML prototypes at Allstate using Microsoft Fabric, PySpark, and Power BI.
 
 ### Tech Stack
 
