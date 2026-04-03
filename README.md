@@ -1,6 +1,6 @@
 # Product Engineer | Data Engineering & Analytics
 
-Data-focused Software Engineer with a background in Revenue Accounting. Currently building scalable data solutions and ML prototypes at Allstate using Microsoft Fabric, PySpark, and Power BI.
+Data-focused Software Engineer with a background in Revenue Accounting. Currently building data products and ML prototypes.
 
 ### Tech Stack
 
