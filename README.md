@@ -5,17 +5,11 @@ Data-focused Software Engineer with a background in Revenue Accounting. Currentl
 ### Tech Stack
 
 * **Programming:** Python, SQL, PySpark
-* **Data and Analytics:** Microsoft Fabric (Notebooks, OneLake), Power BI, Data Modeling, Machine Learning
+* **Data and Analytics:** Microsoft Fabric (Notebooks, OneLake, Pipelines), Power BI, Data Modeling, Machine Learning
 * **Cloud & DevOps:** AWS Certified (S3, Glue, RDS, EC2), Docker, Terraform
 * **Methodologies:** Extreme Programming (XP), Agile, Test-Driven Development (TDD)
 * **Backend & Web:** Flask, Django, RESTful APIs, Selenium
 * **Databases:** PostgreSQL, Oracle
-
-### Open Source & Projects
-
-* **[FRED Financial Data Pipeline](https://github.com/eulloa10/financial-data-pipeline):** Automated retrieval and transformation of U.S. economic indicators with AWS Glue + Airflow; deployed via Terraform and visualized in Looker Studio. Enables time‑series analysis for financial/market research.
-* **[Apache Superset (Open Source)](https://github.com/apache/superset):**  Contributed bug fixes and feature integrations to the open source data visualization and exploration platform maintained by the Apache Software Foundation.
-* **[Lucky Parking (Open Source)](https://github.com/eulloa10/lucky-parking):** Added MongoDB + Mapbox integrations for a civic analytics tool analyzing L.A. parking policy. Improves access to urban data for policymakers and residents.
 
 ## Connect with me
 [LinkedIn](https://www.linkedin.com/in/edgarulloa/)
